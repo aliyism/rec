@@ -1,0 +1,21 @@
+2025-02-01 12:43:33,791 - Key Pressed: r
+2025-02-01 12:43:33,871 - Key Pressed: e
+2025-02-01 12:43:34,020 - Key Pressed: z
+2025-02-01 12:43:34,106 - Key Pressed: a
+2025-02-01 12:43:34,608 - Special Key Pressed: Key.space
+2025-02-01 12:43:34,888 - Key Pressed: g
+2025-02-01 12:43:35,196 - Key Pressed: o
+2025-02-01 12:43:35,397 - Key Pressed: l
+2025-02-01 12:43:35,643 - Key Pressed: z
+2025-02-01 12:43:35,749 - Key Pressed: a
+2025-02-01 12:43:36,304 - Key Pressed: r
+2025-02-01 12:43:36,963 - Special Key Pressed: Key.space
+2025-02-01 12:43:37,321 - Numpad Digit Pressed: 1
+2025-02-01 12:43:37,427 - Numpad Digit Pressed: 2
+2025-02-01 12:43:37,969 - Numpad Digit Pressed: 3
+2025-02-01 12:43:38,313 - Numpad Digit Pressed: 4
+2025-02-01 12:43:38,439 - Numpad Digit Pressed: 5
+2025-02-01 12:43:38,594 - Numpad Digit Pressed: 6
+2025-02-01 12:43:38,966 - Numpad Digit Pressed: 7
+2025-02-01 12:43:39,100 - Numpad Digit Pressed: 8
+2025-02-01 12:43:39,217 - Numpad Digit Pressed: 9
