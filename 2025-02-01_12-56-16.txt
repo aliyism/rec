@@ -1,0 +1,10 @@
+2025-02-01 12:56:41,149 - Key Pressed: q
+2025-02-01 12:56:41,261 - Key Pressed: w
+2025-02-01 12:56:41,443 - Key Pressed: e
+2025-02-01 12:56:41,810 - Key Pressed: q
+2025-02-01 12:56:41,891 - Key Pressed: w
+2025-02-01 12:56:42,052 - Key Pressed: e
+2025-02-01 12:56:42,882 - Key Pressed: r
+2025-02-01 12:56:43,131 - Key Pressed: t
+2025-02-01 12:56:44,210 - Numpad Digit Pressed: 7
+2025-02-01 12:56:44,317 - Numpad Digit Pressed: 8
