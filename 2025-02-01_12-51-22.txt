@@ -1,0 +1,16 @@
+2025-02-01 12:51:37,859 - Key Pressed: a
+2025-02-01 12:51:37,982 - Key Pressed: s
+2025-02-01 12:51:38,110 - Key Pressed: d
+2025-02-01 12:51:38,510 - Key Pressed: a
+2025-02-01 12:51:38,590 - Key Pressed: s
+2025-02-01 12:51:38,735 - Key Pressed: d
+2025-02-01 12:51:38,999 - Key Pressed: a
+2025-02-01 12:51:39,057 - Key Pressed: s
+2025-02-01 12:51:39,197 - Key Pressed: d
+2025-02-01 12:51:39,409 - Key Pressed: a
+2025-02-01 12:51:39,500 - Key Pressed: s
+2025-02-01 12:51:39,608 - Key Pressed: d
+2025-02-01 12:51:40,428 - Numpad Digit Pressed: 5
+2025-02-01 12:51:40,503 - Numpad Digit Pressed: 9
+2025-02-01 12:51:40,739 - Numpad Digit Pressed: 5
+2025-02-01 12:51:40,836 - Numpad Digit Pressed: 9
