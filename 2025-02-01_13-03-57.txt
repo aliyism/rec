@@ -1,0 +1,12 @@
+2025-02-01 13:04:22,782 - Numpad Digit Pressed: 1
+2025-02-01 13:04:22,970 - Numpad Digit Pressed: 3
+2025-02-01 13:04:23,039 - Numpad Digit Pressed: 2
+2025-02-01 13:04:24,369 - Key Pressed: +
+2025-02-01 13:04:24,595 - Key Pressed: +
+2025-02-01 13:04:25,406 - Special Key Pressed: Key.backspace
+2025-02-01 13:04:25,600 - Special Key Pressed: Key.backspace
+2025-02-01 13:04:25,793 - Special Key Pressed: Key.backspace
+2025-02-01 13:04:26,008 - Special Key Pressed: Key.backspace
+2025-02-01 13:04:26,389 - Special Key Pressed: Key.backspace
+2025-02-01 13:04:27,963 - Numpad Digit Pressed: 1
+2025-02-01 13:04:28,070 - Numpad Digit Pressed: 2
