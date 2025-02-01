@@ -1,22 +1,24 @@
-2025-02-01 12:43:33,791 - Key Pressed: r
-2025-02-01 12:43:33,871 - Key Pressed: e
-2025-02-01 12:43:34,020 - Key Pressed: z
-2025-02-01 12:43:34,106 - Key Pressed: a
-2025-02-01 12:43:34,608 - Special Key Pressed: Key.space
-2025-02-01 12:43:34,888 - Key Pressed: g
-2025-02-01 12:43:35,196 - Key Pressed: o
-2025-02-01 12:43:35,397 - Key Pressed: l
-2025-02-01 12:43:35,643 - Key Pressed: z
-2025-02-01 12:43:35,749 - Key Pressed: a
-2025-02-01 12:43:36,304 - Key Pressed: r
-2025-02-01 12:43:36,963 - Special Key Pressed: Key.space
-2025-02-01 12:43:37,321 - Numpad Digit Pressed: 1
-2025-02-01 12:43:37,427 - Numpad Digit Pressed: 2
-2025-02-01 12:43:37,969 - Numpad Digit Pressed: 3
-2025-02-01 12:43:38,313 - Numpad Digit Pressed: 4
-2025-02-01 12:43:38,439 - Numpad Digit Pressed: 5
-2025-02-01 12:43:38,594 - Numpad Digit Pressed: 6
-2025-02-01 12:43:38,966 - Numpad Digit Pressed: 7
-2025-02-01 12:43:39,100 - Numpad Digit Pressed: 8
-2025-02-01 12:43:39,217 - Numpad Digit Pressed: 9
-2025-02-01 12:44:32,633 - Special Key Pressed: Key.f6
+2025-02-01 12:46:48,960 - Key Pressed: b
+2025-02-01 12:46:49,320 - Key Pressed: o
+2025-02-01 12:46:49,470 - Key Pressed: o
+2025-02-01 12:46:49,600 - Key Pressed: s
+2025-02-01 12:46:49,756 - Special Key Pressed: Key.space
+2025-02-01 12:46:50,028 - Key Pressed: b
+2025-02-01 12:46:51,065 - Key Pressed: o
+2025-02-01 12:46:51,201 - Key Pressed: o
+2025-02-01 12:46:51,311 - Key Pressed: s
+2025-02-01 12:46:51,536 - Special Key Pressed: Key.space
+2025-02-01 12:46:52,074 - Key Pressed: b
+2025-02-01 12:46:52,426 - Key Pressed: o
+2025-02-01 12:46:52,604 - Key Pressed: o
+2025-02-01 12:46:52,723 - Key Pressed: s
+2025-02-01 12:46:52,909 - Special Key Pressed: Key.space
+2025-02-01 12:46:53,474 - Numpad Digit Pressed: 1
+2025-02-01 12:46:53,570 - Numpad Digit Pressed: 2
+2025-02-01 12:46:53,624 - Numpad Digit Pressed: 3
+2025-02-01 12:46:53,994 - Numpad Digit Pressed: 4
+2025-02-01 12:46:54,078 - Numpad Digit Pressed: 5
+2025-02-01 12:46:54,143 - Numpad Digit Pressed: 6
+2025-02-01 12:46:54,678 - Numpad Digit Pressed: 7
+2025-02-01 12:46:54,877 - Numpad Digit Pressed: 9
+2025-02-01 12:46:54,882 - Numpad Digit Pressed: 8
