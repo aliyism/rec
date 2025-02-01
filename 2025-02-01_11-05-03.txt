@@ -1,0 +1,17 @@
+2025-02-01 11:05:06,748 - Key Pressed: q
+2025-02-01 11:05:06,806 - Key Pressed: w
+2025-02-01 11:05:06,967 - Key Pressed: e
+2025-02-01 11:05:07,987 - Special Key Pressed: Key.backspace
+2025-02-01 11:05:08,152 - Special Key Pressed: Key.backspace
+2025-02-01 11:05:08,463 - Special Key Pressed: Key.backspace
+2025-02-01 11:05:09,508 - Mouse Clicked: Button.left at (634, 457)
+2025-02-01 11:05:10,136 - Key Pressed: q
+2025-02-01 11:05:10,290 - Key Pressed: w
+2025-02-01 11:05:10,375 - Key Pressed: e
+2025-02-01 11:05:11,097 - Key Pressed: 1
+2025-02-01 11:05:11,314 - Key Pressed: 3
+2025-02-01 11:05:11,375 - Key Pressed: 2
+2025-02-01 11:05:11,700 - Mouse Clicked: Button.left at (222, 378)
+2025-02-01 11:05:11,860 - Mouse Clicked: Button.left at (222, 378)
+2025-02-01 11:05:13,836 - Mouse Clicked: Button.left at (1836, 201)
+2025-02-01 11:05:15,060 - Special Key Pressed: Key.f6
