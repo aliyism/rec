@@ -1,0 +1,15 @@
+2025-02-01 11:56:13,664 - Key Pressed: a
+2025-02-01 11:56:13,863 - Key Pressed: l
+2025-02-01 11:56:14,012 - Key Pressed: i
+2025-02-01 11:56:14,297 - Special Key Pressed: Key.space
+2025-02-01 11:56:14,567 - Key Pressed: k
+2025-02-01 11:56:14,673 - Key Pressed: h
+2025-02-01 11:56:14,765 - Key Pressed: a
+2025-02-01 11:56:14,873 - Key Pressed: l
+2025-02-01 11:56:14,958 - Key Pressed: i
+2025-02-01 11:56:15,193 - Key Pressed: l
+2025-02-01 11:56:15,258 - Key Pressed: i
+2025-02-01 11:56:15,542 - Special Key Pressed: Key.space
+2025-02-01 11:56:16,206 - Key Pressed: 1
+2025-02-01 11:56:16,238 - Key Pressed: 0
+2025-02-01 11:56:19,798 - Special Key Pressed: Key.f6
