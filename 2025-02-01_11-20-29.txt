@@ -1,0 +1,17 @@
+2025-02-01 11:20:33,617 - Mouse Clicked: Button.left at (245, 303)
+2025-02-01 11:20:33,808 - Mouse Clicked: Button.left at (245, 303)
+2025-02-01 11:20:34,867 - Key Pressed: f
+2025-02-01 11:20:34,890 - Key Pressed: d
+2025-02-01 11:20:34,920 - Key Pressed: s
+2025-02-01 11:20:35,117 - Key Pressed: v
+2025-02-01 11:20:35,226 - Key Pressed: d
+2025-02-01 11:20:35,434 - Key Pressed: s
+2025-02-01 11:20:35,577 - Key Pressed: v
+2025-02-01 11:20:35,743 - Key Pressed: a
+2025-02-01 11:20:35,772 - Key Pressed: s
+2025-02-01 11:20:35,820 - Key Pressed: d
+2025-02-01 11:20:35,876 - Key Pressed: v
+2025-02-01 11:20:36,032 - Key Pressed: a
+2025-02-01 11:20:36,061 - Key Pressed: s
+2025-02-01 11:20:36,107 - Key Pressed: d
+2025-02-01 11:20:37,180 - Special Key Pressed: Key.f6
