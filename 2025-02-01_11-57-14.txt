@@ -1,0 +1,24 @@
+2025-02-01 11:57:40,485 - Key Pressed: r
+2025-02-01 11:57:40,618 - Key Pressed: e
+2025-02-01 11:57:40,741 - Key Pressed: z
+2025-02-01 11:57:40,848 - Key Pressed: a
+2025-02-01 11:57:41,135 - Special Key Pressed: Key.space
+2025-02-01 11:57:43,907 - Key Pressed: r
+2025-02-01 11:57:43,987 - Key Pressed: e
+2025-02-01 11:57:44,094 - Key Pressed: z
+2025-02-01 11:57:44,185 - Key Pressed: a
+2025-02-01 11:57:45,148 - Key Pressed: m
+2025-02-01 11:57:58,436 - Key Pressed: r
+2025-02-01 11:57:58,541 - Key Pressed: e
+2025-02-01 11:57:58,763 - Key Pressed: z
+2025-02-01 11:57:58,865 - Key Pressed: a
+2025-02-01 11:57:59,431 - Special Key Pressed: Key.space
+2025-02-01 11:57:59,686 - Key Pressed: m
+2025-02-01 11:57:59,920 - Key Pressed: o
+2025-02-01 11:58:00,232 - Key Pressed: h
+2025-02-01 11:58:00,342 - Key Pressed: a
+2025-02-01 11:58:00,490 - Key Pressed: m
+2025-02-01 11:58:00,602 - Key Pressed: a
+2025-02-01 11:58:00,970 - Key Pressed: d
+2025-02-01 11:58:01,433 - Key Pressed: i
+2025-02-01 11:58:05,353 - Special Key Pressed: Key.f6
