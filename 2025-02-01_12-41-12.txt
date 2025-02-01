@@ -32,3 +32,14 @@
 2025-02-01 12:42:00,954 - Key Pressed: s
 2025-02-01 12:42:01,051 - Key Pressed: j
 2025-02-01 12:42:01,189 - Special Key Pressed: Key.enter
+2025-02-01 12:42:29,048 - Key Pressed: a
+2025-02-01 12:42:29,182 - Key Pressed: l
+2025-02-01 12:42:29,288 - Key Pressed: i
+2025-02-01 12:42:29,642 - Special Key Pressed: Key.space
+2025-02-01 12:42:30,359 - Key Pressed: k
+2025-02-01 12:42:30,412 - Key Pressed: h
+2025-02-01 12:42:30,546 - Key Pressed: a
+2025-02-01 12:42:30,631 - Key Pressed: l
+2025-02-01 12:42:30,728 - Key Pressed: i
+2025-02-01 12:42:30,948 - Key Pressed: l
+2025-02-01 12:42:31,029 - Key Pressed: i
