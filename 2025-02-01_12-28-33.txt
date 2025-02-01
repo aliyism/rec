@@ -1,0 +1,60 @@
+2025-02-01 12:28:43,958 - Special Key Pressed: <100>
+2025-02-01 12:28:44,278 - Special Key Pressed: <96>
+2025-02-01 12:28:44,447 - Special Key Pressed: <96>
+2025-02-01 12:28:44,700 - Special Key Pressed: <97>
+2025-02-01 12:28:44,901 - Special Key Pressed: <98>
+2025-02-01 12:28:46,454 - Special Key Pressed: <100>
+2025-02-01 12:28:47,133 - Special Key Pressed: <98>
+2025-02-01 12:28:47,212 - Special Key Pressed: <99>
+2025-02-01 12:28:47,813 - Special Key Pressed: <101>
+2025-02-01 12:28:47,877 - Special Key Pressed: <102>
+2025-02-01 12:29:08,544 - Key Pressed: 4
+2025-02-01 12:29:08,706 - Key Pressed: 0
+2025-02-01 12:29:08,857 - Key Pressed: 0
+2025-02-01 12:29:09,252 - Key Pressed: 1
+2025-02-01 12:29:09,518 - Key Pressed: 2
+2025-02-01 12:29:09,792 - Key Pressed: 4
+2025-02-01 12:29:10,350 - Key Pressed: 2
+2025-02-01 12:29:10,629 - Key Pressed: 3
+2025-02-01 12:29:11,123 - Key Pressed: 0
+2025-02-01 12:29:11,242 - Key Pressed: 0
+2025-02-01 12:29:19,258 - Special Key Pressed: Key.num_lock
+2025-02-01 12:29:20,499 - Special Key Pressed: Key.left
+2025-02-01 12:29:20,804 - Special Key Pressed: Key.insert
+2025-02-01 12:29:20,973 - Special Key Pressed: Key.insert
+2025-02-01 12:29:21,338 - Special Key Pressed: Key.end
+2025-02-01 12:29:21,530 - Special Key Pressed: Key.down
+2025-02-01 12:29:21,759 - Special Key Pressed: Key.left
+2025-02-01 12:29:22,193 - Special Key Pressed: Key.down
+2025-02-01 12:29:22,358 - Special Key Pressed: Key.page_down
+2025-02-01 12:29:22,761 - Special Key Pressed: <12>
+2025-02-01 12:29:22,945 - Special Key Pressed: Key.right
+2025-02-01 12:29:31,473 - Special Key Pressed: Key.num_lock
+2025-02-01 12:29:32,516 - Special Key Pressed: <100>
+2025-02-01 12:29:32,562 - Special Key Pressed: <101>
+2025-02-01 12:29:32,637 - Special Key Pressed: <102>
+2025-02-01 12:29:32,948 - Special Key Pressed: <100>
+2025-02-01 12:29:33,012 - Special Key Pressed: <101>
+2025-02-01 12:29:33,119 - Special Key Pressed: <102>
+2025-02-01 12:29:33,368 - Special Key Pressed: <100>
+2025-02-01 12:29:33,427 - Special Key Pressed: <101>
+2025-02-01 12:29:33,587 - Special Key Pressed: <102>
+2025-02-01 12:29:54,445 - Special Key Pressed: <103>
+2025-02-01 12:29:54,577 - Special Key Pressed: <104>
+2025-02-01 12:29:54,663 - Special Key Pressed: <105>
+2025-02-01 12:29:54,975 - Special Key Pressed: <103>
+2025-02-01 12:29:55,066 - Special Key Pressed: <104>
+2025-02-01 12:29:55,168 - Special Key Pressed: <105>
+2025-02-01 12:29:55,516 - Special Key Pressed: <103>
+2025-02-01 12:29:55,548 - Special Key Pressed: <104>
+2025-02-01 12:29:55,633 - Special Key Pressed: <105>
+2025-02-01 12:31:26,036 - Special Key Pressed: Key.ctrl_l
+2025-02-01 12:31:26,566 - Special Key Pressed: Key.ctrl_l
+2025-02-01 12:31:26,603 - Special Key Pressed: Key.ctrl_l
+2025-02-01 12:31:26,640 - Special Key Pressed: Key.ctrl_l
+2025-02-01 12:31:26,678 - Special Key Pressed: Key.ctrl_l
+2025-02-01 12:31:26,715 - Special Key Pressed: Key.ctrl_l
+2025-02-01 12:31:26,753 - Special Key Pressed: Key.ctrl_l
+2025-02-01 12:31:26,790 - Special Key Pressed: Key.ctrl_l
+2025-02-01 12:31:26,827 - Special Key Pressed: Key.ctrl_l
+2025-02-01 12:31:58,272 - Special Key Pressed: Key.f6
