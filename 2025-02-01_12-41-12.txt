@@ -10,3 +10,25 @@
 2025-02-01 12:41:37,990 - Special Key Pressed: <103>
 2025-02-01 12:41:38,177 - Special Key Pressed: <104>
 2025-02-01 12:41:38,405 - Special Key Pressed: <105>
+2025-02-01 12:41:57,318 - Key Pressed: ;
+2025-02-01 12:41:57,638 - Key Pressed: n
+2025-02-01 12:41:57,780 - Special Key Pressed: Key.space
+2025-02-01 12:41:58,054 - Key Pressed: h
+2025-02-01 12:41:58,297 - Key Pressed: w
+2025-02-01 12:41:58,442 - Key Pressed: g
+2025-02-01 12:41:58,518 - Key Pressed: h
+2025-02-01 12:41:58,986 - Key Pressed: p
+2025-02-01 12:41:59,241 - Special Key Pressed: Key.space
+2025-02-01 12:41:59,400 - Key Pressed: a
+2025-02-01 12:41:59,496 - Key Pressed: n
+2025-02-01 12:41:59,587 - Key Pressed: i
+2025-02-01 12:41:59,785 - Special Key Pressed: Key.space
+2025-02-01 12:41:59,922 - Key Pressed: v
+2025-02-01 12:42:00,050 - Key Pressed: ,
+2025-02-01 12:42:00,228 - Special Key Pressed: Key.space
+2025-02-01 12:42:00,362 - Key Pressed: f
+2025-02-01 12:42:00,627 - Key Pressed: t
+2025-02-01 12:42:00,818 - Key Pressed: v
+2025-02-01 12:42:00,954 - Key Pressed: s
+2025-02-01 12:42:01,051 - Key Pressed: j
+2025-02-01 12:42:01,189 - Special Key Pressed: Key.enter
