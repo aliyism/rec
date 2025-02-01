@@ -1,0 +1,31 @@
+2025-02-01 11:30:21,887 - Mouse Clicked: Button.left at (238, 319)
+2025-02-01 11:30:22,063 - Mouse Clicked: Button.left at (238, 319)
+2025-02-01 11:30:23,625 - Key Pressed: d
+2025-02-01 11:30:23,657 - Key Pressed: s
+2025-02-01 11:30:23,763 - Key Pressed: f
+2025-02-01 11:30:24,001 - Key Pressed: a
+2025-02-01 11:30:24,037 - Key Pressed: d
+2025-02-01 11:30:24,133 - Key Pressed: f
+2025-02-01 11:30:24,294 - Key Pressed: a
+2025-02-01 11:30:24,332 - Key Pressed: d
+2025-02-01 11:30:24,373 - Key Pressed: s
+2025-02-01 11:30:24,456 - Key Pressed: f
+2025-02-01 11:30:24,603 - Key Pressed: d
+2025-02-01 11:30:24,638 - Key Pressed: a
+2025-02-01 11:30:24,668 - Key Pressed: s
+2025-02-01 11:30:24,779 - Key Pressed: f
+2025-02-01 11:30:24,967 - Key Pressed: a
+2025-02-01 11:30:25,002 - Key Pressed: d
+2025-02-01 11:30:25,026 - Key Pressed: s
+2025-02-01 11:30:25,212 - Key Pressed: f
+2025-02-01 11:30:25,320 - Key Pressed: a
+2025-02-01 11:30:25,332 - Key Pressed: d
+2025-02-01 11:30:25,349 - Key Pressed: s
+2025-02-01 11:30:25,581 - Key Pressed: f
+2025-02-01 11:30:26,394 - Key Pressed: 4
+2025-02-01 11:30:26,565 - Key Pressed: 4
+2025-02-01 11:30:26,760 - Key Pressed: 4
+2025-02-01 11:30:26,958 - Key Pressed: 4
+2025-02-01 11:30:27,255 - Mouse Clicked: Button.left at (1058, 1075)
+2025-02-01 11:30:38,047 - Mouse Clicked: Button.left at (460, 656)
+2025-02-01 11:30:40,074 - Special Key Pressed: Key.f6
