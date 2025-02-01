@@ -22,3 +22,4 @@
 2025-02-01 12:46:54,678 - Numpad Digit Pressed: 7
 2025-02-01 12:46:54,877 - Numpad Digit Pressed: 9
 2025-02-01 12:46:54,882 - Numpad Digit Pressed: 8
+2025-02-01 12:47:55,381 - Special Key Pressed: Key.f6
